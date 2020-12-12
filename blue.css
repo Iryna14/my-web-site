@@ -1,0 +1,17 @@
+:root { 
+    --mainColor: #044172;
+    --secondaryColor:#326186;
+    --borderColor:#c1c1c1;
+    --mainText: black;
+    --secondaryText:#4b5156;
+    --themeDotBorder:#24292e;
+    --previewBg: rgb(250, 237, 203, 0.40);
+    --previewShadow: #EFD89B;
+    --buttonColor: black;
+}
+p, label {
+    color: black;
+}
+a {
+    color: white;
+}
